@@ -3,7 +3,9 @@ import React from 'react';
 function Contact(){
     return(
         <div className = "flex flex-col mb-10 mt-10 mx-auto">
+            <p className="text-center justify-center md:text-xl mb-3 font-medium">Contact</p>
             <div className = "flex justify-center items-center">
+            
                 <form
                     action = "https://getform.io/f/140f8acd-0ca1-44f5-9b63-e18715472319"
                     method = "POST"
