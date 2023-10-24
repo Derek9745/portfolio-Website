@@ -15,7 +15,7 @@ function Intro(){
 }
 
 var i =0;
-var txt;
+var txt = id = "Demo";
 var speed = 50;
 
 function typeWriter(){
