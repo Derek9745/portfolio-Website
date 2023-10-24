@@ -15,7 +15,7 @@ export default [
 
     {
         title: 'Note App',
-        imgUrl: '/assets/Screenshot (225).png',
+        imgUrl: 'assets/Screenshot (225).png',
         stack: ['Python', 'SQL', 'tKinter'],
         link: 'https://github.com/Derek9745/PythonNoteApp',
     },
