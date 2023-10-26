@@ -3,7 +3,7 @@ export default [
         title: 'Stardust Demo',
         imgUrl: '/assets/Screenshot (210) - Copy.jpg',
         stack: ['Unity', 'Blender', 'C#'],
-        link: 'https://github.com/Derek9745/StardustDemo',
+        link: '/StardustDemo',
     },
 
     {
@@ -17,7 +17,7 @@ export default [
         title: 'Note App',
         imgUrl: 'assets/Screenshot (225).png',
         stack: ['Python', 'SQL', 'tKinter'],
-        link: 'https://github.com/Derek9745/PythonNoteApp',
+        link: '/NoteApp',
     },
 
     {
