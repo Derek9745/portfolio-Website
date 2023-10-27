@@ -6,7 +6,7 @@ function NavBar(){
 
 
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
-        <a className="navbar-brand"  href="#">Derek Hehn</a>
+        <a className="navbar-brand">Derek Hehn</a>
             <div className="navbar-nav">
                 <a className="nav-item nav-link active"><Link to = "/">Home</Link> <span class="sr-only">(current)</span></a>
                 <a className="nav-item nav-link"><Link to= "/StardustDemo">StardustDemo</Link></a>

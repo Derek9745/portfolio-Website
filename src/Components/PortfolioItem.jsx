@@ -1,11 +1,13 @@
 import React from 'react';
+import { Link } from "react-router-dom";
 
 function PortfolioItem({title, imgUrl, stack, link}){
     return(
         <div className= "border-2 border-stone-900 rounded-md overflow-hidden ">
-            
-        <a  href= {link} >
+           
+        <a> <Link to = {link}>
         <img src={imgUrl} alt="portfolio"className="w-full h-36 md:h-48 object-fill cursor-pointer"/>
+        </Link>
         </a> 
 
         
