@@ -24,21 +24,21 @@ export default [
         title: 'Fusion360 Renders',
         imgUrl: 'assets/Robot arm v55 - Copy.png',
         stack: ['Fusion360', 'Parametric modeling', '3D'],
-        link: 'https://github.com/Derek9745/StardustDemo',
+        link: '/Fusion360',
     },
 
     {
         title: 'Woodworking/Building Projects',
         imgUrl: '/assets/woodworkingtable3.jpg',
         stack: ['Mockups', 'Design', 'WoodWorking'],
-        link: 'https://github.com/Derek9745/portfolio-Website',
+        link: '/BuildingProjects',
     },
 
     {
         title: 'Blender Models',
         imgUrl: '/assets/Table Render.png',
         stack: ['Blender', '3D', 'Polygon Modeling'],
-        link: 'https://github.com/Derek9745/PythonNoteApp',
+        link: 'Blender',
     },
 
 
