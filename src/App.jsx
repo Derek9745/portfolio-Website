@@ -1,11 +1,11 @@
 import React from 'react'
 import {Routes, Route } from 'react-router-dom'
-import StardustDemo from "./Components/StardustDemo"
-import NoteApp from "./Components/NoteApp"
-import HomePage from "./Components/HomePage"
-import BuildingProjects from './Components/BuildingProjects'
-import Blender from './Components/Blender'
-import Fusion360 from './Components/Fusion360'
+import StardustDemo from "../public/Pages/StardustDemo"
+import NoteApp from "../public/Pages/NoteApp"
+import HomePage from "../public/Pages/HomePage"
+import BuildingProjects from '../public/Pages/BuildingProjects'
+import Blender from '../public/Pages/Blender'
+import Fusion360 from '../public/Pages/Fusion360'
 
 function App() {
   return (
