@@ -19,8 +19,27 @@ export default [
         imgUrl: 'assets/Screenshot (225).png',
         stack: ['Python', 'SQL', 'tKinter'],
         link: '/NoteApp',
-    }
+    },
 
+    {
+        title: 'AutoCAD Drawings',
+        imgUrl: '/assets/Shaft Assembly.jpg',
+        stack: ['Part Design', 'AutoCAD', 'Drafting'],
+        link: '/AutoCAD',
+    },
+
+
+
+    {
+        title: 'Building Projects',
+        imgUrl: '/assets/woodworkingtable3.jpg',
+        stack: ['Assembly', 'WoodWorking', 'PowerTools'],
+        link: '/BuildingProjects',
+    },
+
+    
+    
+        
     
 
 
