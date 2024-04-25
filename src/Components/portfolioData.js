@@ -38,7 +38,12 @@ export default [
     },
 
     
-    
+    {
+        title: 'Product Renders',
+        imgUrl: '/assets/ProductRender2Items.jpg',
+        stack: ['Maya', '3D Modeling', 'Lighting'],
+        link: '/Blender',
+    },
         
     
 

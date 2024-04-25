@@ -12,10 +12,9 @@ function NavBar(){
                 <a className="nav-item nav-link"><Link to= "/StardustDemo" style={{ textDecoration: 'none' , color: "black"}}>StardustDemo</Link></a>
                 <a className="nav-item nav-link"><Link to = "/NoteApp" style={{ textDecoration: 'none' , color: "black"}}>NoteApp</Link></a>
                 <a className="nav-item nav-link"><Link to = "/AutoCAD" style={{ textDecoration: 'none' , color: "black"}}>AutoCAD</Link></a>
-                {/*<a className="nav-item nav-link"><Link to = "/ChatAssistant" style={{ textDecoration: 'none' , color: "black"}}>ChatAssistant</Link></a>
-                {/* <a className="nav-item nav-link"><Link to = "/Fusion360" style={{ textDecoration: 'none', color: "black" }}>Fusion360 Renders</Link></a> */}
-                 <a className="nav-item nav-link"><Link to = "/BuildingProjects" style={{ textDecoration: 'none', color: "black" }}>Building Projects</Link></a> */}
-                {/* <a className="nav-item nav-link"><Link to = "/Blender" style={{ textDecoration: 'none' , color: "black"}}>Blender Models</Link></a> */}
+                <a className="nav-item nav-link"><Link to = "/BuildingProjects" style={{ textDecoration: 'none', color: "black" }}>Building Projects</Link></a>
+                {/*<a className="nav-item nav-link"><Link to = "/ChatAssistant" style={{ textDecoration: 'none' , color: "black"}}>ChatAssistant</Link></a>*/}
+                 <a className="nav-item nav-link"><Link to = "/Blender" style={{ textDecoration: 'none' , color: "black"}}>3D Renders</Link></a> 
                 
                 
         </div>
