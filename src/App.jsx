@@ -8,6 +8,7 @@ import Blender from '../public/Pages/Blender'
 import Fusion360 from '../public/Pages/Fusion360'
 import AutoCAD from '../public/Pages/AutoCAD'
 import ChatAssistant from '../public/Pages/ChatAssistant'
+import './styles.css'; // Import your global CSS file
 function App() {
   return (
       <>
