@@ -16,7 +16,7 @@ export default [
 
     {
         title: 'Note App',
-        imgUrl: 'assets/Screenshot (225).png',
+        imgUrl: '/assets/ExpenseTracker.png',
         stack: ['Python', 'SQL', 'tKinter'],
         link: '/NoteApp',
     },
