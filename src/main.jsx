@@ -10,10 +10,10 @@ import NavBar from './Components/NavBar'
 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
-  <HashRouter>
+  <BrowserRouter>
             <NavBar/>
             <App/>    
-  </HashRouter>,
+  </BrowserRouter>,
 )
 
 
