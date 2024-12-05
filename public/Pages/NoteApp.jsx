@@ -14,7 +14,7 @@ function NoteApp(){
            
         
        </p>
-       <a className = "font-size: small " style={{ color: "black" }} href = "//assets/ExpenseTracker.png" > https://github.com/Derek9745/PythonExpenseTracker</a>
+       <a className = "font-size: small " style={{ color: "black" }} href = "/assets/ExpenseTracker.png" > https://github.com/Derek9745/PythonExpenseTracker</a>
 
         </div>
 
